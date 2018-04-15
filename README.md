@@ -1,5 +1,7 @@
 Konstantin Ryabokon
 
+<b>Project completion date:</b> 02/12/2018
+
 Expirience based on Alice and wonderland and convey emotion of wonder.
 
 https://youtu.be/2bGhmNrht1c
