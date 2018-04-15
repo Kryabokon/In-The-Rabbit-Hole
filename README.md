@@ -8,13 +8,13 @@ Expirience based on Alice and wonderland and convey emotion of wonder.
 
 <b>Project Video: </b>https://youtu.be/2bGhmNrht1c
 
-<b>Achievements:</b>
+<b>Achievements</b>
 
- <b>Fundamentals:</b> Scale achievement - 100 points / Animation achievement - 100 points / Lighting achievement - 100 points / Locomotion achievement - 100 points / Physics achievement - 100 points
+><b>Fundamentals:</b> Scale achievement - 100 points / Animation achievement - 100 points / Lighting achievement - 100 points / Locomotion achievement - 100 points / Physics achievement - 100 points
 
- <b>Completeness:</b> Gamification achievement - 250 points / Diegetic UI achievement - 250 points / Photogrammetry achievement - 250 points
+><b>Completeness:</b> Gamification achievement - 250 points / Diegetic UI achievement - 250 points / Photogrammetry achievement - 250 points
 
- <b>Challenges:</b> User Testing achievement   - 500 points
+><b>Challenges:</b> User Testing achievement   - 500 points
 
 <b>User testing Notes</b>
 
