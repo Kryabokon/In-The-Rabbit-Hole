@@ -4,7 +4,7 @@ Expirience based on Alice and wonderland and convey emotion of wonder.
 
 https://youtu.be/2bGhmNrht1c
 
-<b>Achievements:<b/>
+<b>Achievements:</b>
 
  <b>Fundamentals:</b> Scale achievement - 100 points / Animation achievement - 100 points / Lighting achievement - 100 points / Locomotion achievement - 100 points / Physics achievement - 100 points
 
