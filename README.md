@@ -4,7 +4,9 @@ Konstantin Ryabokon
 
 Expirience based on Alice and wonderland and convey emotion of wonder.
 
-https://youtu.be/2bGhmNrht1c
+<b>Project write up: </b>https://docs.google.com/document/d/1W1Vc0GLTXG3z2oJ2qV44jZiS9k7SmJoa5kq4N3QG72c/edit?usp=sharing
+
+<b>Project Video: </b>https://youtu.be/2bGhmNrht1c
 
 <b>Achievements:</b>
 
