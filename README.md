@@ -4,7 +4,7 @@ Konstantin Ryabokon
 
 Experience based on "Alice in Wonderland" and meant to convey emotion of wonder.
 
-<b>Project write up: </b>https://docs.google.com/document/d/1W1Vc0GLTXG3z2oJ2qV44jZiS9k7SmJoa5kq4N3QG72c/edit?usp=sharing
+<b>Project write up: </b>https://docs.google.com/document/d/1W1Vc0GLTXG3z2oJ2qV44jZiS9k7SmJoa5kq4N3QG72c/view?usp=sharing
 
 <b>Project Video: </b>https://youtu.be/2bGhmNrht1c
 
@@ -18,7 +18,7 @@ Experience based on "Alice in Wonderland" and meant to convey emotion of wonder.
 
 <b>User testing Notes</b>
 
-https://docs.google.com/document/d/1BNjrkOjI4eLFIijy44eX05KB5bKGaNNTqMy_QYOqJ-I/edit?usp=sharing
+https://docs.google.com/document/d/1BNjrkOjI4eLFIijy44eX05KB5bKGaNNTqMy_QYOqJ-I/view?usp=sharing
 
 <b>Unity Assets & Settings </b>
 
