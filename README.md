@@ -2,7 +2,7 @@ Konstantin Ryabokon
 
 <b>Project completion date:</b> 02/12/2018
 
-Expirience based on Alice and wonderland and convey emotion of wonder.
+Experience based on "Alice and Wonderland" and convey emotion of wonder.
 
 <b>Project write up: </b>https://docs.google.com/document/d/1W1Vc0GLTXG3z2oJ2qV44jZiS9k7SmJoa5kq4N3QG72c/edit?usp=sharing
 
