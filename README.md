@@ -2,7 +2,7 @@ Konstantin Ryabokon
 
 <b>Project completion date:</b> 02/12/2018
 
-Experience based on "Alice in Wonderland" and meant to convey emotion of wonder.
+This project is an experience centered around “Alice in Wonderland” fairy tail, particularly around the beginning where Alice follows the white rabbit and then falls down a hole. This VR experience is meant to convey emotion of wonder.
 
 <b>Project write up: </b>https://docs.google.com/document/d/1W1Vc0GLTXG3z2oJ2qV44jZiS9k7SmJoa5kq4N3QG72c/view?usp=sharing
 
